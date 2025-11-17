@@ -14,15 +14,9 @@
 | Project | Folder | Stack | Description | Link |
 | --- | --- | --- | --- | --- |
 | AI LangChain RAG | `ai_langchain_rag` | Python, LangChain, Docker | Retrieval-Augmented Generation sample with secure data pipelines and evaluable prompts. | [Open](./ai_langchain_rag) |
-| Backend FastAPI Template | `backend_fastapi_template` | Python, FastAPI, Docker, PostgreSQL | Clean-architecture-ready FastAPI template with security-first defaults. | [Open](./backend_fastapi_template) |
-| Frontend Vue Dashboard | `frontend_vue_dashboard` | TypeScript, Vue, Vite | Data-centric dashboard scaffold with modular components and testing hooks. | [Open](./frontend_vue_dashboard) |
-| Full-Stack MLOps | `fullstack_mlops` | Python, FastAPI, Vue, Docker Compose | End-to-end MLOps playground aligning APIs, UI, and model lifecycle automation. | [Open](./fullstack_mlops) |
 
 ## Projects / Proyectos
 - **ai_langchain_rag** — Python + LangChain RAG workflow with secure ingestion, vector store, and evaluation hooks. → [Folder](./ai_langchain_rag)
-- **backend_fastapi_template** — FastAPI backend skeleton with clean layers, validation, and observability. → [Folder](./backend_fastapi_template)
-- **frontend_vue_dashboard** — Vue dashboard template for analytics and ML insights. → [Folder](./frontend_vue_dashboard)
-- **fullstack_mlops** — Full-stack MLOps blueprint orchestrating data, models, and delivery. → [Folder](./fullstack_mlops)
 
 ## Tech Stack / Tecnologías
 **Languages / Lenguajes:** Python, TypeScript
@@ -48,6 +42,5 @@
 **ES:** Cada proyecto promueve SOLID, DRY y KISS. Priorizo arquitectura limpia, separación de responsabilidades, validación rigurosa de entradas y configuraciones seguras con pruebas adaptadas a cada stack.
 
 ## Contact / Contacto
-- LinkedIn: [linkedin.com/in/mishellramosacaro](https://www.linkedin.com/in/mishellramosacaro)
+- LinkedIn: [linkedin.com/in/mishellramosacaro](https://www.linkedin.com/in/josselyn-mishell-ramos/)
 - GitHub: [github.com/MishellRamosAcaro](https://github.com/MishellRamosAcaro)
-- Email: mishellramos.dev@example.com (placeholder)
