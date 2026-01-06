@@ -6,7 +6,7 @@ Starter dashboard built with Vue and TypeScript to showcase analytics, ML insigh
 ## Architecture / Arquitectura
 ```mermaid
 graph TD
-    U[User] -->|Browser| A[Vue SPA]
+    U-->|[User]|Browser| A [Vue SPA]
     A -->|API calls| B[API Gateway]
     A -->|State updates| C[Store (Pinia/Vuex)]
     A -->|Charts & Widgets| D[Components Library]
